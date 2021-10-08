@@ -1,6 +1,6 @@
 # Simple Web App for To-Do Tracking (in progress)
 
-# 一个简单的网页版 to-do 应用（更新中）
+# 一个基于 React 的网页版 to-do 应用（更新中）
 
 ## 快速运行
 
